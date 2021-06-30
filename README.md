@@ -1,5 +1,5 @@
-#Intro to C++ De Anza 2014.
-#This was my first programming class ever.
+# Intro to C++ De Anza 2014.
+# This was my first programming class ever.
 
 **Screenshots of examples of labs I did:**
 
